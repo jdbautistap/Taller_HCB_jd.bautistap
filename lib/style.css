@@ -1,0 +1,77 @@
+/* Add your styles here */
+body{
+  background:url("https://media.istockphoto.com/vectors/shiny-stars-on-green-background-vector-id535007573");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size:cover;
+  font-size:larger;
+}
+img{
+  width: 300px;
+  height:400px;
+  display: block;
+  margin-left:auto;
+  margin-right: auto ;
+}
+.titulo{
+  font-size: xx-large;
+  text-align: center;
+  color: rgb(42, 119, 59);
+}
+.subtitulo{
+  font-size: xx-large;
+  text-align: center;
+  color: rgb(78, 78, 53);
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: #EFF8FB;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  color: #0e0d0d;
+  font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+  color: #4b644f; 
+  font-family: inherit;
+}
+dd{
+  color:rgb(114, 121, 77);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+a{
+  color: rgb(51, 71, 51);
+}
+.inicio{
+  text-align: center;
+}
+.row2{
+  padding-left:40px;
+  margin: 40px;
+  width: 1050px;
+  display:inline-flex;
+}
+
+.row3{
+  padding-left:40px;
+  margin: 40px;
+  width: 1050px;
+  display:inline-flex;
+}
+pre{
+  color: #61794e;
+}
+.col-sm-06{
+  margin: auto;
+  padding-left: 55px;
+}
+.Texto
+{
+    color: yellow;
+    font-size: xx-large;
+   
+}
